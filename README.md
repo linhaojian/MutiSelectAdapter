@@ -5,7 +5,7 @@
 
 5种多选方式<br>
  
-##使用
+## 使用
 ```
 mutilSelectAdapter =new MutilSelectAdapter.MutiSelectAdapterBuilder()
 .setContext(this)//设置上下文对象
