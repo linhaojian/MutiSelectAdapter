@@ -5,7 +5,8 @@
 
 5种多选方式<br>
  
-使用
+##使用
+```
 mutilSelectAdapter =new MutilSelectAdapter.MutiSelectAdapterBuilder()<br>
 .setContext(this)//设置上下文对象<br>
 .setStyle(MutilSelectAdapter.MutiSelectAdapterBuilder.Style.Center)//设置多选的样式<br>
