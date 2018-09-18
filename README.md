@@ -4,7 +4,7 @@
 所以汇总了这些不同样式的多选功能，封装了MutilSelectAdapter，实现5种多选的方式。如下图：<br>
 
 5种多选方式<br>
-(https://github.com/linhaojian/MutiSelectAdapter/tree/master/screenshots/1.png)
+![image](https://github.com/linhaojian/MutiSelectAdapter/tree/master/screenshots/1.png)
  
 ## 使用
 ```
